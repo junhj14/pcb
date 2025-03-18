@@ -1,9 +1,9 @@
 # 📦 Enhancement of Product-Inspection Accuracy Using CNN and Laplacian Filter
 
-Official implementation of the **CVPR 2022** paper:  
+Official implementation of the Electronics 2023,12 paper:  
 📄 *Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes*
 
-[🔗 Paper Link (MDPI)](https://www.mdpi.com/2079-9292/12/18/3795)
+[🔗 Paper Link (MDPI)](https://www.mdpi.com/2079-9292/12/18/3795)(https://www.mdpi.com/2079-9292/12/18/3795)
 
 ---
 
@@ -32,7 +32,7 @@ Our approach achieves:
 
 You can download the PCB image datasets from the following links:
 
-- [PKU Robotics Lab Dataset](http://robotics.pkusz.edu.cn/resources/dataset)  
-- [Kaggle PCB Defects Dataset](https://www.kaggle.com/datasets/akhatova/pcb-defects)
+- [PKU Robotics Lab Dataset](http://robotics.pkusz.edu.cn/resources/dataset)(http://robotics.pkusz.edu.cn/resources/dataset)
+- [Kaggle PCB Defects Dataset](https://www.kaggle.com/datasets/akhatova/pcb-defects)(http://robotics.pkusz.edu.cn/resources/dataset）
 
 ---
