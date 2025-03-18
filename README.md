@@ -1,14 +1,21 @@
-#Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes
-Official code for CVPR 2022 paper "Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes"
+📦 Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter
+Official implementation of the CVPR 2022 paper:<br> 📄 Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes
 
-[[Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes](https://www.mdpi.com/2079-9292/12/18/3795)](https://www.mdpi.com/2079-9292/12/18/3795)
-HJ Jun, IY Jung
-Electronics 12 (18), 3795
+🔗 Paper Link (MDPI)
 
-#Abstract
-The automation of the manufacturing process of printed circuit boards (PCBs) requires accurate PCB inspections, which in turn require clear images that accurately represent the product PCBs. However, if low-quality images are captured during the involved image-capturing process, accurate PCB inspections cannot be guaranteed. Therefore, this study proposes a method to effectively detect defective images for PCB inspection. This method involves using a convolutional neural network (CNN) and a Laplacian filter to achieve a higher accuracy of the classification of the obtained images as normal and defective images than that obtained using existing methods, with the results showing an improvement of 11.87%. Notably, the classification accuracy obtained using both a CNN and Laplacian filter is higher than that obtained using only CNNs. Furthermore, applying the proposed method to images of computer components other than PCBs results in a 5.2% increase in classification accuracy compared with only using CNNs.
+📝 Abstract
+The automation of the manufacturing process for printed circuit boards (PCBs) requires high-accuracy PCB inspections, which depend on the quality of captured images. Low-quality images can significantly reduce inspection accuracy.
 
+This work proposes a method combining a Convolutional Neural Network (CNN) and a Laplacian Filter to enhance defect detection. The proposed method improves the classification accuracy of PCB images (normal vs. defective) by 11.87% compared to existing methods. Moreover, when applied to images of other computer components, our method shows a 5.2% increase in classification accuracy over CNN-only approaches.
 
-#Data set
+🚀 Highlights
+✅ Combination of CNN and Laplacian Filter for defect detection
+✅ 11.87% improvement in PCB image classification accuracy
+✅ 5.2% improvement on non-PCB computer component images
+✅ Suitable for industrial manufacturing automation processes
 
-PCB Image dataset download "http://robotics.pkusz.edu.cn/resources/dataset" or "https://www.kaggle.com/datasets/akhatova/pcb-defects"
+📂 Dataset
+You can download the PCB image datasets from the following links:
+
+PKU Robotics Lab Dataset
+Kaggle PCB Defects Dataset
