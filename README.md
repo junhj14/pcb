@@ -43,7 +43,7 @@ You can download the PCB image datasets from the following links:
 
 This is an example of a **normal PCB image** from the dataset used in this research.
 
-![PCB Sample](./electronics-12-03795-g002-550.jpg)
+![PCB Sample](images/electronics-12-03795-g002-550.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ This is an example of a **normal PCB image** from the dataset used in this resea
 The CNN structure used in this study is shown below.  
 The input size is **512x512**, and the architecture consists of multiple convolution layers, max-pooling, and fully connected layers to perform **defect classification**.
 
-![CNN Architecture](./electronics-12-03795-g004-550.jpg)
+![CNN Architecture](images/electronics-12-03795-g004-550.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ Each defect type simulates a different common problem during PCB manufacturing a
 | (d)   | Light Overexposure   |
 | (e)   | Noise Contamination  |
 
-![Normal vs Defective Images](./electronics-12-03795-g010-550.jpg)
+![Normal vs Defective Images](images/electronics-12-03795-g010-550.jpg)
 
 ---
 
