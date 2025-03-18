@@ -52,7 +52,7 @@ This is an example of a **normal PCB image** from the dataset used in this resea
 The CNN structure used in this study is shown below.  
 The input size is **512x512**, and the architecture consists of multiple convolution layers, max-pooling, and fully connected layers to perform **defect classification**.
 
-<img src="images/electronics-12-03795-g004-550.jpg" alt="CNN Architecture" width="400" />
+<img src="images/electronics-12-03795-g004-550.jpg" alt="CNN Architecture" width="600" />
 
 ---
 
