@@ -43,7 +43,7 @@ You can download the PCB image datasets from the following links:
 
 This is an example of a **normal PCB image** from the dataset used in this research.
 
-<img src="images/electronics-12-03795-g002-550.jpg" alt="PCB Sample" width="400"/>
+<img src="images/electronics-12-03795-g002-550.jpg" alt="PCB Sample" width="100"/>
 
 ---
 
@@ -69,7 +69,7 @@ Each defect type simulates a different common problem during PCB manufacturing a
 | (d)   | Light Overexposure   |
 | (e)   | Noise Contamination  |
 
-<img src="images/electronics-12-03795-g010-550.jpg" alt="Normal vs Defective Images" width="400" />
+<img src="images/electronics-12-03795-g010-550.jpg" alt="Normal vs Defective Images" width="200" />
 
 
 ---
