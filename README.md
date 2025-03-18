@@ -3,7 +3,7 @@
 Official implementation of the Electronics 2023,12 paper:  
 📄 *Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes*
 
-[🔗 Paper Link (MDPI)](https://www.mdpi.com/2079-9292/12/18/3795)(https://www.mdpi.com/2079-9292/12/18/3795)
+[🔗 Paper Link (MDPI)](https://www.mdpi.com/2079-9292/12/18/3795) (https://www.mdpi.com/2079-9292/12/18/3795)
 
 ---
 
@@ -32,7 +32,50 @@ Our approach achieves:
 
 You can download the PCB image datasets from the following links:
 
-- [PKU Robotics Lab Dataset](http://robotics.pkusz.edu.cn/resources/dataset)(http://robotics.pkusz.edu.cn/resources/dataset)
-- [Kaggle PCB Defects Dataset](https://www.kaggle.com/datasets/akhatova/pcb-defects)(http://robotics.pkusz.edu.cn/resources/dataset）
+- [PKU Robotics Lab Dataset](http://robotics.pkusz.edu.cn/resources/dataset) (http://robotics.pkusz.edu.cn/resources/dataset)
+- [Kaggle PCB Defects Dataset](https://www.kaggle.com/datasets/akhatova/pcb-defects) (http://robotics.pkusz.edu.cn/resources/dataset）
 
 ---
+
+## 🖼️ Example Data & Model Architecture
+
+### 1️⃣ Example of Initial Dataset (PCB Sample)
+
+This is an example of a **normal PCB image** from the dataset used in this research.
+
+![PCB Sample](./electronics-12-03795-g002-550.jpg)
+
+---
+
+### 2️⃣ CNN Model Architecture
+
+The CNN structure used in this study is shown below.  
+The input size is **512x512**, and the architecture consists of multiple convolution layers, max-pooling, and fully connected layers to perform **defect classification**.
+
+![CNN Architecture](./electronics-12-03795-g004-550.jpg)
+
+---
+
+### 3️⃣ Experiment 1 - Normal and Defective PCB Images
+
+The following image shows examples of **normal and defective images** used in **Experiment 1**.  
+Each defect type simulates a different common problem during PCB manufacturing and imaging.
+
+| Label | Description          |
+|-------|----------------------|
+| (a)   | Normal Image         |
+| (b)   | Focus Defect         |
+| (c)   | Motion Blur Defect   |
+| (d)   | Light Overexposure   |
+| (e)   | Noise Contamination  |
+
+![Normal vs Defective Images](./electronics-12-03795-g010-550.jpg)
+
+---
+
+## 🔧 How to Use (Coming Soon)
+
+> 📌 We will provide instructions on setting up the environment, training the model, and running inference in the next update.
+
+---
+
