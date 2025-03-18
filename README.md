@@ -61,20 +61,15 @@ The input size is **512x512**, and the architecture consists of multiple convolu
 The following image shows examples of **normal and defective images** used in **Experiment 1**.  
 Each defect type simulates a different common problem during PCB manufacturing and imaging.
 
-<div style="display: inline-block; width: 45%; vertical-align: top;">
-    <table border="1">
-        <tr><th>Label</th><th>Description</th></tr>
-        <tr><td>(a)</td><td>Normal Image</td></tr>
-        <tr><td>(b)</td><td>Focus Defect</td></tr>
-        <tr><td>(c)</td><td>Motion Blur Defect</td></tr>
-        <tr><td>(d)</td><td>Light Overexposure</td></tr>
-        <tr><td>(e)</td><td>Noise Contamination</td></tr>
-    </table>
-</div>
+| Label | Description          |
+|-------|----------------------|
+| (a)   | Normal Image         |          
+| (b)   | Focus Defect         |
+| (c)   | Motion Blur Defect   |
+| (d)   | Light Overexposure   |
+| (e)   | Noise Contamination  |
 
-<div style="display: inline-block; width: 45%; vertical-align: top;">
-    <img src="images/electronics-12-03795-g010-550.jpg" alt="Normal vs Defective Images" width="250" />
-</div>
+<img src="images/electronics-12-03795-g010-550.jpg" alt="Normal vs Defective Images" width="250" />
 
 
 
