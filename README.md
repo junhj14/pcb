@@ -1,9 +1,9 @@
 # 📦 Enhancement of Product-Inspection Accuracy Using CNN and Laplacian Filter
 
-Official implementation of the Electronics 2023,12 paper:  
+Official implementation of the Electronics 2023,12 paper by **Hyojae Jun** and **Im Y. Jung**:  
 📄 *Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes*
 
-[🔗 Paper Link (MDPI)](https://www.mdpi.com/2079-9292/12/18/3795) (https://www.mdpi.com/2079-9292/12/18/3795)
+[🔗 Paper Link (MDPI)](https://www.mdpi.com/2079-9292/12/18/3795)
 
 ---
 
