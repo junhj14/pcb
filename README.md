@@ -4,6 +4,7 @@ Official implementation of the Electronics 2023,12 paper:
 📄 *Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes*
 
 [📖 Paper: Enhancement of Product-Inspection Accuracy](https://www.mdpi.com/2079-9292/12/18/3795) (https://www.mdpi.com/2079-9292/12/18/3795)
+
 **Jun, Hyojae**<sup>1</sup> and **Im Y. Jung**<sup>2</sup>. *"Enhancement of Product-Inspection Accuracy Using Convolutional Neural Network and Laplacian Filter to Automate Industrial Manufacturing Processes."*  
 *Electronics*, **2023**, *12*(18), 3795. 
 ---
