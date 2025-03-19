@@ -6,7 +6,7 @@ Official implementation of the Electronics 2023,12 paper:
 
 [📖 Paper: Enhancement of Product-Inspection Accuracy](https://www.mdpi.com/2079-9292/12/18/3795) (https://www.mdpi.com/2079-9292/12/18/3795)
 
-<small>**Hyojae Jun**<sup>1</sup> and **Im Y. Jung**<sup>2</sup>. *Electronics*, **2023**, *12*(18), 3795. 
+<font size="1">**Hyojae Jun**<sup>1</sup> and **Im Y. Jung**<sup>2</sup>. *Electronics*, **2023**, *12*(18), 3795.</font>
 
 ---
 
